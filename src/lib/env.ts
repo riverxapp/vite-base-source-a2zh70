@@ -1,4 +1,5 @@
-const DEFAULT_APP_NAME = "RiverX App";
+
+const DEFAULT_APP_NAME = "BubbleDev Agency";
 const DEFAULT_API_BASE_URL = "/api";
 
 export const env = {
